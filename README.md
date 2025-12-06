@@ -126,6 +126,3 @@ However, the brand faces challenges related to product effectiveness and competi
 Despite some switching behavior, many users still recommend Himalaya, showing that **brand loyalty remains strong**.
 
 ---
-
-## 📁 Project Structure
-
